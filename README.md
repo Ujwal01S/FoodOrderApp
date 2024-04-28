@@ -1,3 +1,21 @@
+#How to start the app?
+In your code editor goto terminal and type npm install. All the required dependencies will be installed.
+This app has it's meal data stored in Firebase API (provided by Google)
+The cart data and userData form is also stored in Firebase API.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
